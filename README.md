@@ -19,11 +19,11 @@ The C4.1 is a protocol for contributing to open source projects. It was original
 ### Contributing
 1. Fork the repository
 2. Produce a minimal and accurate answer to exactly one identified and agreed problem. 
-    * Check the [issue tracker] for a problem someone else has found, or submit your own issue. 
+    * Check the [issue tracker] for a problem someone else has found, or [submit your own issue]. 
     * A problem can be a bug, or it can be something you need that doesn’t exist, or something that exists but you want it to be better. A feature that people want but doesn’t yet exist is a problem, as is a bug.
-    * Avoid solving something you think is a problem without first posting the problem to the issue tracker to seek the advice of others who may know something you are unaware of.
-    * Try as hard as you can to ensure your code adheres to the style guidelines. Everyone makes mistakes, but submitting pull requests with messy styling is considered rude.
-    * If you are working on API changes, make sure your work adheres to the Evolution of Public Contracts guidelines.
+    * Avoid solving something you think is a problem without first posting the problem to the [issue tracker] to seek the advice of others who may know something you are unaware of.
+    * Try as hard as you can to ensure your code adheres to the [style guidelines]. Everyone makes mistakes, but submitting pull requests with messy styling is considered rude.
+    * If you are working on API changes, make sure your work adheres to the [Evolution of Public Contracts] guidelines.
     * Do not include nontrivial code from other projects unless you are the original author of that code.
     * Make sure your code builds cleanly and without issues, at least on your own system.
 3.	Submit a pull request.
