@@ -2,6 +2,7 @@
 
 _“Don't try to invent the future. Just get to work making real solutions to real problems. The future will invent itself.”_ – Pieter Hintjens.
 
+### What's different about Thaliance?
 A collective work has two extreme outcomes. Either it's a failure, in which case every sane person walks away without a fight. Or, it's a success, in which case we see jockeying for power, control, and money. Left unchecked, this can destroy a community and an open source project, turning it into a toxic and unfriendly place. 
 
 It doesn’t have to be this way. In fact, there’s a realiable and tested method proving that this is the case. Using this method also means the entire project becomes a hill-climbing algorithm, relentessly solving any problem it encounters cheaply and accurately. Development, and the resulting product, are infinitely scalable.
@@ -15,10 +16,10 @@ The C4.1 is a protocol for contributing to open source projects. It was original
 -	You own the copyright to your contributions, not the project founder (or whoever comes later to pretend to be the project founder).
 -	Your code can never be locked up under a corporate license and used against you in competition to your own work.
 
-Contributing
-1.	Fork the repository
-2.	Produce a minimal and accurate answer to exactly one identified and agreed problem. 
-..a.	Check the issue tracker for a problem someone else has found, or submit your own issue. 
+### Contributing
+1. Fork the repository
+2. Produce a minimal and accurate answer to exactly one identified and agreed problem. 
+..i. Check the issue tracker for a problem someone else has found, or submit your own issue. 
 ..b.	A problem can be a bug, or it can be something you need that doesn’t exist, or something that exists but you want it to be better. A feature that people want but doesn’t yet exist is a problem, as is a bug.
 ..c.	Avoid solving something you think is a problem without first posting the problem to the issue tracker to seek the advice of others who may know something you are unaware of.
 ..d.	 Try as hard as you can to ensure your code adheres to the style guidelines. Everyone makes mistakes, but submitting pull requests with messy styling is considered rude.
