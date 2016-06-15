@@ -22,10 +22,10 @@ The C4.1 is a protocol for contributing to open source projects. It was original
     * Check the issue tracker for a problem someone else has found, or submit your own issue. 
     * A problem can be a bug, or it can be something you need that doesn’t exist, or something that exists but you want it to be better. A feature that people want but doesn’t yet exist is a problem, as is a bug.
     * Avoid solving something you think is a problem without first posting the problem to the issue tracker to seek the advice of others who may know something you are unaware of.
-..d.	 Try as hard as you can to ensure your code adheres to the style guidelines. Everyone makes mistakes, but submitting pull requests with messy styling is considered rude.
-..e.	If you are working on API changes, make sure your work adheres to the Evolution of Public Contracts guidelines.
-..f.	Do not include nontrivial code from other projects unless you are the original author of that code.
-..g.	Make sure your code builds cleanly and without issues, at least on your own system.
+    * Try as hard as you can to ensure your code adheres to the style guidelines. Everyone makes mistakes, but submitting pull requests with messy styling is considered rude.
+    * If you are working on API changes, make sure your work adheres to the Evolution of Public Contracts guidelines.
+    * Do not include nontrivial code from other projects unless you are the original author of that code.
+    * Make sure your code builds cleanly and without issues, at least on your own system.
 3.	Submit a pull request.
-..a.	Your pull request must contain a short (<50 chars) description of the problem being solved (“Problem: …), followed by a blank line and then the proposed solution (Solution: …).
-..b.	If you are submitting a pull request in response to your own or someone else’s problem in the issue tracker, put the issue tracking reference number at the end of the message. Github will then automatically link your pull request to the issue.
+    * Your pull request must contain a short (<50 chars) description of the problem being solved (“Problem: …), followed by a blank line and then the proposed solution (Solution: …).
+    * If you are submitting a pull request in response to your own or someone else’s problem in the issue tracker, put the issue tracking reference number at the end of the message. Github will then automatically link your pull request to the issue.
