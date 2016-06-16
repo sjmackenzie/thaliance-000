@@ -29,3 +29,6 @@ The C4.1 is a protocol for contributing to open source projects. It was original
 3.	Submit a pull request.
     * Your pull request must contain a short (<50 chars) description of the problem being solved (“Problem: …), followed by a blank line and then the proposed solution (Solution: …).
     * If you are submitting a pull request in response to your own or someone else’s problem in the issue tracker, put the issue tracking reference number at the end of the message. Github will then automatically link your pull request to the issue.
+
+### License
+Thaliance is released under the [MPLv2 license](https://www.mozilla.org/en-US/MPL/2.0/). This ensures that contributions cannot be closed up under a corporate license. Furthermore, as it is a share-alike license, any forks of this project or anywhere this code is used must also be released under the same (or very similar) license, which means any improvements made by anyone outside of this project can be merged back into Thaliance. This project or the code therein may not be forked or used under a BSD style license (MIT etc) as these licenses allow code to be used in closed-source applications which are not remixable. 
